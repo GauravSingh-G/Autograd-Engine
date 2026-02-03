@@ -1,0 +1,5 @@
+# Core engine uses pure Python (no dependencies)
+
+# For visualization and notebooks
+graphviz
+matplotlib
